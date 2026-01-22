@@ -1,0 +1,41 @@
+####################################
+# Node.js
+####################################
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+####################################
+# Environment variables
+####################################
+.env
+.env.*
+!.env.example
+
+####################################
+# Prisma
+####################################
+# Local sqlite / dev databases
+prisma/dev.db
+prisma/dev.db-journal
+
+# Prisma generated client cache
+node_modules/.prisma/
+
+# Migration lock file (do not commit)
+prisma/migrations/**/migration_lock.toml
+
+####################################
+# Logs
+####################################
+logs/
+*.log
+
+####################################
+# OS / Editor
+####################################
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
