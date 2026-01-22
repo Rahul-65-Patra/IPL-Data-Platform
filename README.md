@@ -43,6 +43,7 @@ It is designed to demonstrate:
 ![📸 App Screenshot](./players.png)
 ![📸 App Screenshot](./matches.png)
 ![📸 App Screenshot](./stats.png)
+![📸 App Screenshot](./prisma.png)
 
 ---
 
@@ -65,7 +66,8 @@ It is designed to demonstrate:
 
 ## 🔗 Live Preview
 
-You can view the live preview of the project : [🚀 Live Demo]()
+🚧 *Live demo link coming soon...*
+
 
 ---
 
